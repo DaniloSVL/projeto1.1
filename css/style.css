@@ -102,6 +102,20 @@ body {
     margin-top: 200px;
     margin-bottom: 100px;
     margin-block: 23px;
+    h6{
+        color: var(--cinza);
+        margin-bottom: 20px;
+        font-size: 15px;
+    }
+    h1{
+
+        text-align: center;
+        color: var(--branco);
+        margin-top: 20px;
+        width: 100%;
+        margin-bottom: 60px;
+        font-size: 40px;
+    }
 }
 .card {
     width: 20%;
